@@ -1,0 +1,10 @@
+
+
+M:/ECE287/synth_audio/Audio_Controller/Audio_Clock.v
+
+Dec 10 05PM:02:53>: Error in CNX file format.
+
+Error messages are listed in file
+M:/ECE287/synth_audio/Audio_Controller/Audio_Clock.cnxerr.
+
+Can't create the custom megafunction variation file(s)
