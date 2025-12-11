@@ -1,0 +1,10 @@
+
+
+M:/ECE287/AUDIO_ON_DE1_SOC_2024/AUDIO_ON_DE1_SOC_2024/Audio_Demo_RECORD_SAMPLE_16_bit/Audio_Controller/Audio_Clock.v
+
+Dec 10 06PM:39:54>: Error in CNX file format.
+
+Error messages are listed in file
+M:/ECE287/AUDIO_ON_DE1_SOC_2024/AUDIO_ON_DE1_SOC_2024/Audio_Demo_RECORD_SAMPLE_16_bit/Audio_Controller/Audio_Clock.cnxerr.
+
+Can't create the custom megafunction variation file(s)
